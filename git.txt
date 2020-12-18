@@ -1,0 +1,12 @@
+Historia do git
+Git e git hub e R studio
+_Como obter?
+	_Git
+	_github
+	_R e R studio
+_Beneficios
+_Projeto
+_Boas praticas
+_Pacote use_this()
+_Configuração do git e github e rstudio
+_Criar repositório e outras coisas

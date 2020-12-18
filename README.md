@@ -4,5 +4,5 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of Projeto_Git is to ...
+The goal of Projeto_Git is to learning
 
